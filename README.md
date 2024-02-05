@@ -1,23 +1,12 @@
 Привет, меня зовут Федор Лукьянов
 ===============================
 Data Analyst с <1 годом опыта. Страстно интересуюсь информационными технологиями и тем, как они трансформируют бизнес.
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  
+
 __________________________________________________________________________________________________________________________
 
-Ноутбуки `.ipynb` и `.py` скрипты:
+Проекты:
 
 01. [Репозиторий - Проекты Data Science](https://github.com/ArtyKrafty/Data_science_projects)  
-02. [Репозиторий - Проекты Data Analyst](https://github.com/ArtyKrafty/Data_analyst_projects)  
-03. [Репозиторий - Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
-
-Проекты-репозитории:
-
-01. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp)
-02. [Репозиторий - OpenSource. Классы для отбора признаков и обработке DataFrame. PyPI проект](https://github.com/ArtyKrafty/featureselectors)
-03. [Репозиторий - Модульная обработка изображений с использованием OpenCV и генераторов Python с помощью Detectron2](https://github.com/ArtyKrafty/detection)
-04. [Развертывание Yandex Node](https://github.com/ArtyKrafty/yandex_node)
 
 __________________________________________________________________________________________________________________________
 
@@ -36,19 +25,9 @@ ________________________________________________________________________________
   
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/miscellaneous libraries-blue">
-</p>
-
-
-
-<p align="center">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyKrafty&show_icons=true&layout=compact&theme=tokyonight'/>
-</p>
-
 __________________________________________________________________________________________________________________________
 
-<p align="center"> Проекты Data Science. Deep learning </p align="center">
+<p align="center"> Проекты Data Science. </p align="center">
 
 
 | **Проект** | **Тип исследования** | **Статус** |
