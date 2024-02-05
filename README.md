@@ -1,12 +1,10 @@
-Привет, меня зовут Федор Лукьянов
+Привет, я Федор Лукьянов
 ===============================
 Data Analyst с <1 годом опыта. Страстно интересуюсь информационными технологиями и тем, как они трансформируют бизнес.
 
 __________________________________________________________________________________________________________________________
 
-Проекты:
-
-01. [Репозиторий - Проекты Data Science](https://github.com/ArtyKrafty/Data_science_projects)  
+• [Репозиторий - Проекты Data Science](https://github.com/FedorFlowers/Y.P.-1)
 
 __________________________________________________________________________________________________________________________
 
@@ -30,9 +28,9 @@ ________________________________________________________________________________
 <p align="center"> Проекты Data Science. </p align="center">
 
 
-| **Проект** | **Тип исследования** | **Статус** |
+| **Проект** | **Описание** | **Библиотеки** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Компьютерное зрение. Регрессия](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/neural_network/image_age_recognition.ipynb)|Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. В нашем распоряжении набор фотографий людей с указанием возраста|Завершен|
+| [01. Исследование надёжности заёмщиков — анализ банковских данных](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/neural_network/image_age_recognition.ipynb)|Исследование надёжности заёмщиков — анализ банковских данных|Python, Pandas|
 | [02. Обучение нейронных сетей. DLS](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/py_torch_baseline/py_toch_baseline.ipynb)|Полный цикл обучения ANN, CNN на pyTorch|Завершен|
 | [03. Компьютерное зрение. Сегментация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/segmentation/pyTorch_Segmentation_Solomko_ipynb_.ipynb)|Реализация архитектур нейронных сетей для задач сегментации, pyTorch|Завершен|
 | [04. Компьютерное зрение. Автоэнкодеры](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/autoencoders/AutoEncoders_Solomko.ipynb)|Реализация архитектур нейронных сетей автокодировщиков, pyTorch|Завершен|
