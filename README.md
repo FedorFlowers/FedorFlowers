@@ -28,9 +28,9 @@ ________________________________________________________________________________
 <p align="center"> Проекты Data Science. </p align="center">
 
 
-| **Проект** | **Описание** | **Библиотеки** |
+| **Проект** | **Описание** | **Используемые библиотеки** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/FedorFlowers/Y.P.-1/blob/6767128708d4974dd258b4629c2fc6b00e4bfd3e/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%B7%D0%B0%D1%91%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%E2%84%961.ipynb)|Исследование надёжности заёмщиков — анализ банковских данных|Python, Pandas|
+| [01. Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/FedorFlowers/Y.P.-1/blob/6767128708d4974dd258b4629c2fc6b00e4bfd3e/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%B7%D0%B0%D1%91%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%E2%84%961.ipynb)|Исследование надёжности заёмщиков — анализ банковских данных|**Python** **Pandas**|
 | [02. Обучение нейронных сетей. DLS](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/py_torch_baseline/py_toch_baseline.ipynb)|Полный цикл обучения ANN, CNN на pyTorch|Завершен|
 | [03. Компьютерное зрение. Сегментация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/segmentation/pyTorch_Segmentation_Solomko_ipynb_.ipynb)|Реализация архитектур нейронных сетей для задач сегментации, pyTorch|Завершен|
 | [04. Компьютерное зрение. Автоэнкодеры](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/autoencoders/AutoEncoders_Solomko.ipynb)|Реализация архитектур нейронных сетей автокодировщиков, pyTorch|Завершен|
