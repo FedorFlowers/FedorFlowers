@@ -4,7 +4,7 @@
 
 __________________________________________________________________________________________________________________________
 
-• [Репозиторий - Projects](https://github.com/FedorFlowers/Projects)
+• [Репозиторий - ML Projects](https://github.com/FedorFlowers/Projects)
 
 • [Репозиторий - Yandex_Practicum](https://github.com/FedorFlowers/Y.P.-1)
 
