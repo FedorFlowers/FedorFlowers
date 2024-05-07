@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 • [Репозиторий - Dashboards](https://github.com/FedorFlowers/Dashboards)
 
-• [Репозиторий - Yandex_Practicum](https://github.com/FedorFlowers/Y.P.-1)
+• [Репозиторий - Yandex_Practicum_DS](https://github.com/FedorFlowers/Y.P.-1)
 
 __________________________________________________________________________________________________________________________
 
