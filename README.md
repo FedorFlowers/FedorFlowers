@@ -4,7 +4,7 @@
 
 __________________________________________________________________________________________________________________________
 
-• [Репозиторий - DS_Projects](https://github.com/FedorFlowers/Projects)
+• [Репозиторий - ML_Projects](https://github.com/FedorFlowers/Projects)
 
 • [Репозиторий - Dashboards](https://github.com/FedorFlowers/Dashboards)
 
