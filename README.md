@@ -4,11 +4,11 @@
 
 __________________________________________________________________________________________________________________________
 
-• [Репозиторий - ML Projects](https://github.com/FedorFlowers/Projects)
+• [Репозиторий - Data_Science_Projects](https://github.com/FedorFlowers/Projects)
 
 • [Репозиторий - Dashboards](https://github.com/FedorFlowers/Dashboards)
 
-• [Репозиторий - Yandex_Practicum. Data Science Projects](https://github.com/FedorFlowers/Y.P.-1)
+• [Репозиторий - Yandex_Practicum. Data_Science_Projects](https://github.com/FedorFlowers/Y.P.-1)
 
 __________________________________________________________________________________________________________________________
 
