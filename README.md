@@ -8,6 +8,8 @@ ________________________________________________________________________________
 
 • [Репозиторий - Dashboards](https://github.com/FedorFlowers/Dashboards)
 
+• [Репозиторий - SQL_Projects](https://github.com/FedorFlowers/Projects)
+
 • [Репозиторий - Yandex_Practicum_DS](https://github.com/FedorFlowers/Y.P.-1)
 
 __________________________________________________________________________________________________________________________
